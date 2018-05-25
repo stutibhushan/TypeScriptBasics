@@ -1,3 +1,4 @@
+//tsc --target es5 properties.ts-> compile this file using this command, mentioning the target as es5
 class Point{
     constructor(private x?:number, private y?:number){
 
